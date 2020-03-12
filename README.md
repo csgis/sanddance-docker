@@ -1,6 +1,6 @@
 # sanddance-docker
 
-This Dockerfile builds the official Demo app as Container
+This Dockerfile builds the sanddance Demo app as Container
 
 ## Build
 ```
