@@ -1,0 +1,3 @@
+[submodule "SandDance"]
+	path = SandDance
+	url = https://github.com/microsoft/SandDance.git
