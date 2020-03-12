@@ -11,5 +11,5 @@ docker build -t tbook/sanddance-app .
 
 ## Run it
 ```
-docker run -it -p 8080:80 --rm --name sd-app-1 t-book/sanddance-app:latest
+docker run -it -p 8080:80 --rm --name sd-app-1 tbook/sanddance-app:latest
 ```
